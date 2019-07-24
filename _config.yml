@@ -118,7 +118,7 @@ url-pretty: "https://vinisalazar.github.io/nobudget-ead"  # eg. "deanattali.com/
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-# disqus: ""
+disqus: "vini-waves"
 
 # If you want to use JustComments fill with the API Key
 #just-comments: "ABCD-EFGH-IJKL"
