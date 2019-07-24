@@ -13,8 +13,8 @@ Nossa iniciativa é voltada aos estudantes de ciência em cursos de Educação a
 Por conta disso, queremos **facilitar o acesso de alunos de EaD em projetos de IC**, e, para conseguir isso, vamos **conectar estudantes e mentores com interesses em comum através de uma plataforma on-line.**
 
 Acreditamos que isso vai melhorar a qualidade da ciência no Brasil de várias formas:
-- através da inclusão de mais estudantes de EaD
-- facilitando a interação à distância entre estudantes e mentores
+- através da inclusão de mais estudantes de EaD;
+- facilitando a interação à distância entre estudantes e mentores;
 - promovendo uma prática ciêntífica mais **democrática** e **cidadã**.
 
 ### No-Budget Science Hackweek
