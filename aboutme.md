@@ -1,16 +1,22 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Ciência.Com
+subtitle: Uma plataforma para iniciação científica à distância
 ---
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Sobre o Ciência.Com
+Ciência.Com nasceu como uma proposta da [NoBudget Science Hackweek](https://eventos.ufrj.br/evento/no-budget-science-hackweek/)
+com o intuito de responder à seguinte pergunta: "Como melhorar a qualidade da ciência no Brasil?"  
+Nossa iniciativa é voltada aos estudantes de ciência em cursos de Educação a Distância (EaD). É comum que esses estudantes tenham muito mais dificuldade para acessar oportunidades de Iniciação Científica (IC) do que os seus pares que estão em cursos presenciais.
 
-What else do you need?
+Por conta disso, queremos **facilitar o acesso de alunos de EaD em projetos de IC**, e, para conseguir isso, vamos **conectar estudantes e mentores com interesses em comum através de uma plataforma on-line.**
 
-### my history
+Acreditamos que isso vai melhorar a qualidade da ciência no Brasil de várias formas:
+- através da inclusão de mais estudantes de EaD
+- facilitando a interação à distância entre estudantes e mentores
+- promovendo uma prática ciêntífica mais **democrática** e **cidadã**.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### NoBudget Science Hackweek
+A No-Budget Science Hack Week é um workshop intensivo de uma semana com o objetivo de desenvolver projetos de pesquisa em metaciência – ciência sobre como construir uma ciência melhor – na área biomédica por meio da utilização de dados publicamente disponíveis, seguindo a filosofia no-budget: um laptop na mão e uma ideia na cabeça.
+O objetivo do evento é o desenvolvimento de projetos de pesquisa e/ou ferramentas que abordem as grandes questões do processo científico moderno: disponibilidade de dados, confiabilidade, reprodutibilidade, sistema de publicação, distribuição de recursos e financiamento e formação de pesquisadores.
