@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Agricultura
+title: Tecnologias para agricultura familiar
 image: /img/trator.jpeg
 ---
 
