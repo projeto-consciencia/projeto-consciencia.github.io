@@ -3,22 +3,29 @@
   <channel>
     <title>ConSciência</title>
     <description>Uma plataforma para iniciação científica à distância</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <link></link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Mobilidade urbana e uso de celulares</title>
         <description>
           
-          
-
-Estamos cada vez mais dependentes das redes móveis para usar os meios de transporte.
-Aplicativos de mapas, caronas compartilhadas, e horários de transporte público são cada vez mais comuns.
-
+          Trabalhe com aplicativos móveis, avaliando sua cobertura na malha de transporte público. Investigando a Mobilidade Urbana Através de Dados Abertos Governamentais Enriquecidos com Proveniência Sergio Manuel Serra da Cruz, Universidade Federal Rural do Rio de Janeiro, Instituto de Ciências Exatas Atualmente, os principais desafios para a consolidação das cidades inteligentes...
         </description>
         <pubDate>Thu, 25 Jul 2019 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/2019-07-25-uso-transporte-publico/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019-07-25-uso-transporte-publico/</guid>
+        <link>/2019-07-25-uso-transporte-publico/</link>
+        <guid isPermaLink="true">/2019-07-25-uso-transporte-publico/</guid>
+      </item>
+    
+      <item>
+        <title>Agricultura</title>
+        <description>
+          
+          Trabalhe com agricultura familiar, tecnologias da lavoura e técnicas de plantio. Validacao de Tecnologias para a Agricultura Familiar no Municipio de Uberlândia Mauro Marques Burjaili, Universidade Federal de Uberlândia, Faculdade de Engenharia Química Engenharias - Engenharia Química Este projeto tem por objetivo coletar resultados da correção do solo na produção...
+        </description>
+        <pubDate>Thu, 25 Jul 2019 00:00:00 -0300</pubDate>
+        <link>/2019-07-25-mobilidade-urbana/</link>
+        <guid isPermaLink="true">/2019-07-25-mobilidade-urbana/</guid>
       </item>
     
       <item>
@@ -28,8 +35,8 @@ Aplicativos de mapas, caronas compartilhadas, e horários de transporte público
           Fazer ciência é difícil. À distância, mais ainda. Para conseguirmos, precisamos planejar bem o nosso projeto. Podemos dividi-lo em cinco passos: Observação Perguntas e hipóteses Experimento Análise Conclusão Observação A identificação do fenômeno que queremos observar. Perguntas e hipótese Como podemos entender esse fenômeno? Podemos testar alguma hipóse? Experimento Para...
         </description>
         <pubDate>Thu, 25 Jul 2019 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/2019-07-25-ciencia-a-distancia/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019-07-25-ciencia-a-distancia/</guid>
+        <link>/2019-07-25-ciencia-a-distancia/</link>
+        <guid isPermaLink="true">/2019-07-25-ciencia-a-distancia/</guid>
       </item>
     
   </channel>
