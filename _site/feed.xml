@@ -7,6 +7,17 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Como fazer ciência à distância?</title>
+        <description>
+          
+          Fazer ciência é difícil. À distância, mais ainda. Para conseguirmos, precisamos planejar bem o nosso projeto. Podemos dividi-lo em cinco passos: Observação Perguntas e hipóteses Experimento Análise Conclusão Observação A identificação do fenômeno que queremos observar. Perguntas e hipótese Como podemos entender esse fenômeno? Podemos testar alguma hipóse? Experimento Para...
+        </description>
+        <pubDate>Fri, 26 Jul 2019 00:00:00 -0300</pubDate>
+        <link>/2019-07-26-ciencia-a-distancia/</link>
+        <guid isPermaLink="true">/2019-07-26-ciencia-a-distancia/</guid>
+      </item>
+    
+      <item>
         <title>Mobilidade urbana e uso de celulares</title>
         <description>
           
@@ -37,17 +48,6 @@
         <pubDate>Thu, 25 Jul 2019 00:00:00 -0300</pubDate>
         <link>/2019-07-25-herbario/</link>
         <guid isPermaLink="true">/2019-07-25-herbario/</guid>
-      </item>
-    
-      <item>
-        <title>Como fazer ciência à distância?</title>
-        <description>
-          
-          Fazer ciência é difícil. À distância, mais ainda. Para conseguirmos, precisamos planejar bem o nosso projeto. Podemos dividi-lo em cinco passos: Observação Perguntas e hipóteses Experimento Análise Conclusão Observação A identificação do fenômeno que queremos observar. Perguntas e hipótese Como podemos entender esse fenômeno? Podemos testar alguma hipóse? Experimento Para...
-        </description>
-        <pubDate>Thu, 25 Jul 2019 00:00:00 -0300</pubDate>
-        <link>/2019-07-25-ciencia-a-distancia/</link>
-        <guid isPermaLink="true">/2019-07-25-ciencia-a-distancia/</guid>
       </item>
     
   </channel>
