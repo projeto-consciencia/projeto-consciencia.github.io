@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Ciência.Com
+title: ConSciência
 
 # Short description of your site
 description: Uma plataforma para iniciação científica à distância
@@ -51,7 +51,7 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "/img/bgimage.png"
+# navbar-img: "/img/imagem_barra.jpeg"
 # footer-img: "/img/bgimage.png"
 # page-img: "/img/bgimage.png"
 
@@ -93,7 +93,8 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://vinisalazar.github.io/nobudget-ead"  # eg. "deanattali.com/beautiful-jekyll"
+
+url-pretty: "ConSciência.br"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
