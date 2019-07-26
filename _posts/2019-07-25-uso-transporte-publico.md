@@ -4,7 +4,7 @@ title: Mobilidade urbana e uso de celulares
 image: /img/celular.png
 ---
 
-Trabalhe com aplicativos móveis, avaliando sua cobertura na malha de transporte público.
+Utilize aplicativos móveis, avaliando sua cobertura na malha de transporte público.
 
 ![](/img/urbana.jpg)
 

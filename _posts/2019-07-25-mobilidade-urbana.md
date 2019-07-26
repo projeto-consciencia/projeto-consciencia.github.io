@@ -6,6 +6,8 @@ image: /img/trator.jpeg
 
 Trabalhe com agricultura familiar, tecnologias da lavoura e técnicas de plantio.
 
+![](/img/farm.jpeg)
+
 **Validacao de Tecnologias para a Agricultura Familiar no Municipio de Uberlândia**
 *Mauro Marques Burjaili, Universidade Federal de Uberlândia, Faculdade de Engenharia Química*
 
