@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ConSciência</title>
+    <title>conSciência</title>
     <description>Uma plataforma para iniciação científica à distância</description>
-    <link></link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Mobilidade urbana e uso de celulares</title>
@@ -13,8 +13,8 @@
           Utilize aplicativos móveis, avaliando sua cobertura na malha de transporte público. Investigando a Mobilidade Urbana Através de Dados Abertos Governamentais Enriquecidos com Proveniência Sergio Manuel Serra da Cruz, Universidade Federal Rural do Rio de Janeiro, Instituto de Ciências Exatas Atualmente, os principais desafios para a consolidação das cidades inteligentes em...
         </description>
         <pubDate>Thu, 25 Jul 2019 00:00:00 -0300</pubDate>
-        <link>/2019-07-25-uso-transporte-publico/</link>
-        <guid isPermaLink="true">/2019-07-25-uso-transporte-publico/</guid>
+        <link>http://localhost:4000/2019-07-25-uso-transporte-publico/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-07-25-uso-transporte-publico/</guid>
       </item>
     
       <item>
@@ -24,8 +24,8 @@
           Trabalhe com agricultura familiar, tecnologias da lavoura e técnicas de plantio. Validacao de Tecnologias para a Agricultura Familiar no Municipio de Uberlândia Mauro Marques Burjaili, Universidade Federal de Uberlândia, Faculdade de Engenharia Química Engenharias - Engenharia Química Este projeto tem por objetivo coletar resultados da correção do solo na produção...
         </description>
         <pubDate>Thu, 25 Jul 2019 00:00:00 -0300</pubDate>
-        <link>/2019-07-25-mobilidade-urbana/</link>
-        <guid isPermaLink="true">/2019-07-25-mobilidade-urbana/</guid>
+        <link>http://localhost:4000/2019-07-25-mobilidade-urbana/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-07-25-mobilidade-urbana/</guid>
       </item>
     
       <item>
@@ -35,8 +35,8 @@
           Conheça como funciona um herbário e aprenda sobre botânica e coleções biológicos. Aplicação da Ciência Cidadã em Banco de Dados de Herbários Luis Alexandre Estevão da Silva Instituto de Pesquisas Jardim Botânico do Rio de Janeiro, Diretoria de Pesquisas - DIPEQ Este projeto apresenta uma proposta para aplicação da ciência...
         </description>
         <pubDate>Thu, 25 Jul 2019 00:00:00 -0300</pubDate>
-        <link>/2019-07-25-herbario/</link>
-        <guid isPermaLink="true">/2019-07-25-herbario/</guid>
+        <link>http://localhost:4000/2019-07-25-herbario/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-07-25-herbario/</guid>
       </item>
     
       <item>
@@ -46,8 +46,8 @@
           Fazer ciência é difícil. À distância, mais ainda. Para conseguirmos, precisamos planejar bem o nosso projeto. Podemos dividi-lo em cinco passos: Observação Perguntas e hipóteses Experimento Análise Conclusão Observação A identificação do fenômeno que queremos observar. Perguntas e hipótese Como podemos entender esse fenômeno? Podemos testar alguma hipóse? Experimento Para...
         </description>
         <pubDate>Thu, 25 Jul 2019 00:00:00 -0300</pubDate>
-        <link>/2019-07-25-ciencia-a-distancia/</link>
-        <guid isPermaLink="true">/2019-07-25-ciencia-a-distancia/</guid>
+        <link>http://localhost:4000/2019-07-25-ciencia-a-distancia/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-07-25-ciencia-a-distancia/</guid>
       </item>
     
   </channel>

@@ -1,18 +1,11 @@
 ---
 layout: page
-title: ConSciência
+title: .conSciência
 subtitle: Uma plataforma para iniciação científica à distância
 ---
 
-
-<<<<<<< HEAD
-### Sobre o Ciência.Com
-Ciência.Com nasceu como uma proposta da [No-Budget Science Hackweek](https://eventos.ufrj.br/evento/no-budget-science-hackweek/)
-=======
 ### Sobre o ConSciência
-ConSciência nasceu como uma proposta da [NoBudget Science Hackweek](https://eventos.ufrj.br/evento/no-budget-science-hackweek/)
->>>>>>> master
-com o intuito de responder à seguinte pergunta: "Como melhorar a qualidade da ciência no Brasil?"  
+ConSciência nasceu como uma proposta da [NoBudget Science Hackweek](https://eventos.ufrj.br/evento/no-budget-science-hackweek/) com o intuito de responder à seguinte pergunta: "Como melhorar a qualidade da ciência no Brasil?"
 Nossa iniciativa é voltada aos estudantes de ciência em cursos de Educação a Distância (EaD). É comum que esses estudantes tenham muito mais dificuldade para acessar oportunidades de Iniciação Científica (IC) do que os seus pares que estão em cursos presenciais.
 
 Por conta disso, queremos **facilitar o acesso de alunos de EaD em projetos de IC**, e, para conseguir isso, vamos **conectar estudantes e mentores em uma rede colaborativa.**
