@@ -8,7 +8,7 @@ Alguns depoimentos de profissionais que apoiam a .conSciência:
 
 #### Maria Augusta Arruda-Bullock
 #####  Gestora de pesquisa - UKRI
-<img src="img/maria-augusta-bullock.jpg" align="left" width="200" hspace="20">
+<img src="/img/maria-augusta-bullock.jpg" align="left" width="200" hspace="20">
 >Um dos grandes desafios encarados por cursos de graduação a distância na área de STEM é a dificuldade em estabelecer modos de expor os alunos à prática científica de forma não-presencial. Neste aspecto iniciativas como o CEDERJ/CECIERJ, ao utilizar modos inovadores de interagir com o corpo discente, iniciam os alunos   ao método científico, não como conceito, mas como "coisa viva".
 
 >No entanto é importante trazer estes alunos e egressos de EAD para um lugar de protagonismo na prática científica e, para isso, absorver os progressos que nos circunda é fundamental.
