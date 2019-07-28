@@ -23,6 +23,7 @@ navbar-links:
   Sobre:
     - conSciência: "aboutme"
     - Depoimentos: "depoimentos"
+    - Inscreva-se: "inscreva-se"
 
   Recursos:
     - Iniciativa Brasileira de Reprodutibilidade: "http://reprodutibilidade.bio.br"
