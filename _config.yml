@@ -27,6 +27,7 @@ navbar-links:
     - conSciência: "aboutme"
     - Depoimentos: "depoimentos"
     - Dados sobre o projeto: "dados"
+    - Ciência Cidadã: "cienciacidada"
   Recursos:
     - Iniciativa Brasileira de Reprodutibilidade: "http://reprodutibilidade.bio.br"
     - Associação Brasileira de Educação à Distância: "http://www.abed.org.br/"
