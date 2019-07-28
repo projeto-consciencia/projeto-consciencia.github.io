@@ -20,5 +20,3 @@ Esteja envolvido com atividades de plantio na zona rural e tenha acesso a intern
 
 #### Áreas de interesse
 Agronomia - Química - Engenharia Química
-
-Atividades a serem realizadas:
