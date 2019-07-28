@@ -20,7 +20,10 @@ description: Uma plataforma para iniciação científica à distância
 
 # List of links in the navigation bar
 navbar-links:
-  Sobre: "aboutme"
+  Sobre:
+    - conSciência: "aboutme"
+    - Depoimentos: "depoimentos"
+
   Recursos:
     - Iniciativa Brasileira de Reprodutibilidade: "http://reprodutibilidade.bio.br"
     - Associação Brasileira de Educação à Distância: "http://www.abed.org.br/"
