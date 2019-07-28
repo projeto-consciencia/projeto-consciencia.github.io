@@ -1,7 +1,7 @@
 ---
 layout: page
 title: .conSciência
-subtitle: Uma plataforma para iniciação científica à distância
+subtitle: Uma plataforma para iniciação científica a distancia
 ---
 
 ### Sobre o ConSciência
@@ -12,7 +12,7 @@ Por conta disso, queremos **facilitar o acesso de alunos de EaD em projetos de I
 
 Acreditamos que isso vai melhorar a qualidade da ciência no Brasil de várias formas:
 - através da inclusão de mais estudantes de EaD;
-- facilitando a interação à distância entre estudantes e mentores;
+- facilitando a interação a distancia entre estudantes e mentores;
 - promovendo uma prática ciêntífica mais **democrática** e **cidadã**.
 
 ### Integrantes
