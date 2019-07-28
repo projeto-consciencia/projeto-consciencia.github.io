@@ -15,6 +15,15 @@ Acreditamos que isso vai melhorar a qualidade da ciência no Brasil de várias f
 - facilitando a interação à distância entre estudantes e mentores;
 - promovendo uma prática ciêntífica mais **democrática** e **cidadã**.
 
+### Integrantes
+- [Sara Nállia de Oliveira Costa](mailto:saranallia.oliveira@gmail.com)
+- [Janaína Carla da Silva](mailto:janainacarla91@gmail.com)
+- [Leonardo Pinto de Magalhães](mailto:leonardo.magalhaes@usp.br)
+- [Vinícius Werneck Salazar](mailto:viniws@cos.ufrj.br)
+
+![](/img/fotogrupo.jpeg)
+>Da esquerda para a direita: Leonardo, Sara, Janaína e Vinícius
+
 ### No-Budget Science Hackweek
 A No-Budget Science Hack Week é um workshop intensivo de uma semana com o objetivo de desenvolver projetos de pesquisa em metaciência – ciência sobre como construir uma ciência melhor – na área biomédica por meio da utilização de dados publicamente disponíveis, seguindo a filosofia no-budget: um laptop na mão e uma ideia na cabeça.
 O objetivo do evento é o desenvolvimento de projetos de pesquisa e/ou ferramentas que abordem as grandes questões do processo científico moderno: disponibilidade de dados, confiabilidade, reprodutibilidade, sistema de publicação, distribuição de recursos e financiamento e formação de pesquisadores.
