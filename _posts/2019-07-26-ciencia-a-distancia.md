@@ -16,7 +16,7 @@ planejar bem o nosso projeto. Podemos dividi-lo em cinco passos:
 **Observação**  
 Diante de algum fenômeno ou problema, o observador é levado pela curiosidade e pela necessidade a buscar formas de entender o que leva aquilo a acontecer. A observação, pode ser a olho nu ou com a utilização de instrumentos, como celular.
 
-**Perguntas e Hipóteses**
+**Perguntas e Hipóteses**  
 Nesta etapa são elaboradas perguntas sobre o fenômeno ou material analisado, ocorrendo consequentemente a concepção de hipóteses que podem responder às perguntas feitas na etapa anterior, dessa forma, direcionando o trabalho de pesquisa.
 
 **Experimento**  
