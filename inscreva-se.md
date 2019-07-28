@@ -4,7 +4,7 @@ title: Inscreva-se!
 subtitle: Como participar de um projeto do .conSciência
 ---
 
-<img src="/img/education.jpg" height="400" align="center">
+![](/img/education.jpg)
 
 #### Como participar
 Você é estudante de EaD e viu um projeto aqui e gostaria de participar? Eis aqui como começar:
