@@ -18,9 +18,7 @@ Alguns depoimentos de profissionais que apoiam a .conSciência:
 #### Juliana Aguiar
 ##### Idealizadora e coordenadora geral da Rede de Pesquisadores
 <img src="https://github.com/vinisalazar/nobudget-ead/blob/master/img/juliana-aguiar.jpg?raw=true" align="left" height="150" hspace="20">
->A experiência com ciência na graduação,  enquanto licenciandos, pede contribuir pra formação de orientadores/mentores de estudantes de IC já na educação básica.
-Imagina esses estudantes EAD, futuros professores, usando método científico ou resolução de problemas mas suas "aulas" com propriedade.
-Usar a observação pra olhar pro seu cotidiano e definir uma questão de investigação e aprender com isso.
+>A experiência com ciência na graduação, enquanto licenciandos, pode contribuir para a formação de orientadores/mentores de estudantes de IC já na educação básica. Imaginem esses estudantes EAD, futuros professores, usando como parte das suas estratégias para promover a aprendizagem ativa, o método científico, a aprendizagem baseada em problemas e a divulgação científica no planejamento das suas “aulas” com propriedade. Usar a observação para olhar o seu cotidiano, definir uma questão de investigação valorizando o poder do questionamento e da criatividade e aprender com isso.
 
 #### Alessandro Coutinho Ramos
 ##### Professor e pesquisador Universidade de Vila Velha
