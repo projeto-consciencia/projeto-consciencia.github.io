@@ -20,10 +20,13 @@ description: Uma plataforma para iniciação científica à distância
 
 # List of links in the navigation bar
 navbar-links:
+  Participe:
+    - Estudantes: "inscreva-se"
+    - Mentores: "cadastre"
   Sobre:
     - conSciência: "aboutme"
     - Depoimentos: "depoimentos"
-    - Inscreva-se: "inscreva-se"
+    - Dados sobre o projeto: "dados"
 
   Recursos:
     - Iniciativa Brasileira de Reprodutibilidade: "http://reprodutibilidade.bio.br"
