@@ -24,7 +24,7 @@ Usar a observação pra olhar pro seu cotidiano e definir uma questão de invest
 
 #### Alessandro Coutinho Ramos
 ##### Professor e pesquisador Universidade de Vila Velha
-<img src="/img/alessandro-ramos.jpg" align="left" height="150" hspace="20">
+<img src="/nobudget-ead/img/alessandro-ramos.jpg" align="left" height="150" hspace="20">
 >A ciência moderna tende a crescer muito ao incluir os alunos do Ensino à Distância (EaD). O perfil desse aluno é diferenciado do presencial, por desenvolverem a proatividade, a capacidade de planejamento, foco, facilidade em lidar com recursos tecnológicos e estarem mais abertos ao conhecimento. Professores pesquisadores com experiência na modalidade EaD possuem comunicação clara e estabelecem uma dinâmica ensino/aprendizagem mais eficiente, o que tornará a ciência moderna mais estimulante e antenada aos anseios da sociedade. Por fim, alunos EaD poderão ser grandes cientistas e com perfil excelente para atuarem junto ao setor produtivo e comunicarem seus estudos com a sociedade de forma motivante.
 
 #### Felipe Oliveira da Silva
