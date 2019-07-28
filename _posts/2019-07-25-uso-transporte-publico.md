@@ -6,7 +6,7 @@ image: /img/celular.png
 
 Utilize aplicativos móveis, avaliando sua cobertura na malha de transporte público.
 
-![](/img/urbana.jpg)
+![](https://github.com/vinisalazar/nobudget-ead/blob/master/img/urbana.jpg?raw=true)
 
 **Investigando a Mobilidade Urbana Através de Dados Abertos Governamentais Enriquecidos com Proveniência**  
 *Sergio Manuel Serra da Cruz, Universidade Federal Rural do Rio de Janeiro, Instituto de Ciências Exatas*
