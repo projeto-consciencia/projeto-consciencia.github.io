@@ -14,22 +14,16 @@ planejar bem o nosso projeto. Podemos dividi-lo em cinco passos:
 - Conclusão
 
 **Observação**  
-A identificação do fenômeno que queremos observar.
+Diante de algum fenômeno ou problema, o observador é levado pela curiosidade e pela necessidade a buscar formas de entender o que leva aquilo a acontecer. A observação, pode ser a olho nu ou com a utilização de instrumentos, como celular.
 
-**Perguntas e hipótese**  
-Como podemos entender esse fenômeno? Podemos testar alguma hipóse?
+**Perguntas e Hipóteses**
+Nesta etapa são elaboradas perguntas sobre o fenômeno ou material analisado, ocorrendo consequentemente a concepção de hipóteses que podem responder às perguntas feitas na etapa anterior, dessa forma, direcionando o trabalho de pesquisa.
+Experimento: Fase de verificação das hipóteses. Onde experimentos e pesquisas bibliográficas são realizadas com base nas hipóteses levantadas. A fim de obter a resposta para cada um dos questionamentos que foram elaborados.
 
-**Experimento**  
-Para testar uma hipótese, vamos precisar coletar dados. A fase do experimento é
-desafiadora pois precisamos pensar qual é a melhor forma de produzir os dados
-para produzir informações úteis.
-
-**Análise**  
-A análise dos dados é nossa forma de expressar o que achamos. Essa etapa se torna
-bem mais fácil quando tivemos uma pergunta bem definida e planejamos bem nosso experimento.
+**Análise**
+Nessa etapa as informações coletadas e os resultados são observados para entender se correspondem aos resultados esperados pelas questões de pesquisa (hipóteses). Cada um dos resultados é analisado para verificar se eles são suficientes para explicar cada um dos problemas levantados e também se estão de acordo com as hipóteses. Caso os resultados não sejam satisfatórios, novas hipóteses podem ser levantadas para que novas experimentações ocorram.
 
 **Conclusão**  
-Encerramos nosso projeto fazendo uma reflexão sobre o processo. Aprendemos algo novo?
-Quais foram as dificuldades? Quais são as novas perguntas?  
+Etapa onde permite-se que sejam feitas afirmações acerca dos fenômenos ou materiais analisados.
 
 Vamos ver alguns projetos para ter exemplos de como fazer isso à distância.
