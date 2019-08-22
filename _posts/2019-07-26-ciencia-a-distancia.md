@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Como fazer ciência a distancia?
+title: Como fazer ciência a distância?
 image: /img/hello_world.png
 ---
 
-Fazer ciência é difícil. a distancia, mais ainda. Para conseguirmos, precisamos
+Fazer ciência é difícil. a distância, mais ainda. Para conseguirmos, precisamos
 planejar bem o nosso projeto. Podemos dividi-lo em cinco passos:
 
 - Observação
