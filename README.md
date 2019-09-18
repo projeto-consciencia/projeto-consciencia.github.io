@@ -1,4 +1,4 @@
-[Entre no site!](https://vinisalazar.github.io/nobudget-ead)
+[Entre no site!](https://projeto-consciencia.github.io)
 
 #### Construído com Beautiful Jekyll
 
